@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+    /* text-align: center; */
+}
+h1{
+    font-family: fantasy;
+    font-size: 30px;
+}
+ol{
+    font-weight: bold;
+    padding: 0% 0% 0% 20%;
+}
+ul{
+    list-style-type: none;
+    padding: 0% 0% 0% 20%;
+}
+li{
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 35px;
+    color: blue;
+    background-color: lightpink;
+    
+}
+img{
+    height: 200px;
+}
+h3{
+    text-decoration: underline;
+}
+p{
+    padding: 20% 0% 20% 0%;
+}
