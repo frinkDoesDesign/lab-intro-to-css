@@ -4,15 +4,23 @@
 }
 body{
     font-family: sans-serif;
-    /* text-align: center; */
+     background:
+    radial-gradient(ellipse at 20% 20%, #35234b 0%, transparent 70%),
+    radial-gradient(ellipse at 60% 20%, #2975bf 0%, transparent 70%),
+    radial-gradient(ellipse at 100% 20%, #3d54b1 0%, transparent 70%),
+    radial-gradient(ellipse at 100% 100%, #9f3c54 0%, transparent 70%),
+    radial-gradient(ellipse at 20% 100%, #362d6f 0%, transparent 70%);
+  background-blend-mode:screen;
+  
 }
 h1{
     font-family: fantasy;
     font-size: 30px;
+    text-align: center;
 }
 ol{
     font-weight: bold;
-    padding: 0% 0% 0% 20%;
+    padding: 0% 0% 0% 30%;
 }
 ul{
     list-style-type: none;
@@ -24,14 +32,17 @@ li{
     border-radius: 35px;
     color: blue;
     background-color: lightpink;
+    padding: 0 0 0 30px;
     
 }
 img{
     height: 200px;
 }
 h3{
+    text-align: center;
     text-decoration: underline;
 }
 p{
     padding: 20% 0% 20% 0%;
+    text-align: center;
 }

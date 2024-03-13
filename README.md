@@ -29,7 +29,7 @@ To complete the tests in this lab, you will need to add the following styles. If
 [x]- Underline all `h3` elements.
 [x]- All `p` tags should have 20 pixels of padding on the top and the bottom - not on the sides.
 [x]- `h1` tags should have a 30px font size.
-[]- Lists should have `30px` of padding on the left.
+[x]- Lists should have `30px` of padding on the left.
 
 After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.
 
